@@ -6,4 +6,6 @@ import (
 
 func main() {
 	fmt.Printf("Hi GoGoGO")
+	fmt.Printf("Hi GoGoGOzzzz")
+
 }
